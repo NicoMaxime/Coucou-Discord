@@ -1,3 +1,4 @@
 .idea
 
 Coucou-Discord.iml
+.idea

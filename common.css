@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+html body{
+    height: 100%;
+}
+#navBarre{
+    background-color: black;
+    opacity: 0.8;
+    padding: 2% 0 2% 0;
+}
+#logo{
+    text-align: left;
+}
+#navMenu{
+    text-align: center;
+}
+#navMenu ul{
+    display: inline;
+}
+#navMenu ul li{
+    display: inline;
+}
+#navMenu ul li a{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 1% 5% 1% 5%;
+}
